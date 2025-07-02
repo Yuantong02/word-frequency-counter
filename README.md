@@ -12,9 +12,11 @@ A simple Python script that reads a text file and prints the top 10 most frequen
 
 ## Sample Output
 
+```
 the 12
 and 9
 data 7
+```
 
 ## Skills Used
 
